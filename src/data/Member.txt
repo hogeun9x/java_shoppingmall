@@ -1,0 +1,6 @@
+none,비회원,null,0,P
+hoon,임훈,1234,51,C
+saler,판매자,1234,27,C 
+zzang,임훈,1234,51,P
+zzang7,짱칠,1234,50,C
+hogeun,박호근,1234,28,P
